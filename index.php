@@ -42,7 +42,7 @@ require_once("conexao.php");
         <div class="form-control">
           <label for="name">Insira sua Senha</label>
           <input
-            type="text"
+            type="password"
             name="senha"
             placeholder="Digite a sua Senha"
           />
