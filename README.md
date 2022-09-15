@@ -16,7 +16,6 @@ Este projeto é funcional, pois podemos utiliza-lo em sistemas hoje necessite o 
 Tela Inicial
 <img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/home.png?raw=true" alt="Tela Inicial">
 
-Exemplo níveis de Acesso
 <img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/acesso.png?raw=true" alt="Exemplo Acesso">
 
 Tela Usuário
