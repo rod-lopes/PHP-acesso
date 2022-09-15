@@ -13,17 +13,18 @@ Este projeto é funcional, pois podemos utiliza-lo em sistemas hoje necessite o 
 
 ## Telas do Sistema
 
-<img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/home.png?raw=true" alt="Tela Inicial">
 Tela Inicial
+<img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/home.png?raw=true" alt="Tela Inicial">
 
-<img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/acesso.png?raw=true" alt="Exemplo Acesso">
 Exemplo níveis de Acesso
+<img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/acesso.png?raw=true" alt="Exemplo Acesso">
 
-<img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/usuario.png?raw=true" alt="Tela Usuário">
 Tela Usuário
+<img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/usuario.png?raw=true" alt="Tela Usuário">
 
+Tela Adminitrador
 <img src="https://github.com/rod-lopes/PHP-acesso/blob/main/img/admin.png?raw=true" alt="Tela Admin">
-Tela Admin
+
 
 ## Licença
 
